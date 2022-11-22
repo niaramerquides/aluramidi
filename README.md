@@ -1,3 +1,3 @@
 # aluramidi
 
-Repo de tese do curso "JavaScript para Web: Crie páginas dinâmicas" da Alura
+Repo de teste do curso "JavaScript para Web: Crie páginas dinâmicas" da Alura
